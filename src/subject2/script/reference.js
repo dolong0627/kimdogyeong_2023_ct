@@ -4,6 +4,6 @@ const reference = [
     title: "",
     year: "",
     sourceTitle: "",
-    link: "https://unsplash.com/@ilon_a",
+    link: "",
   },
 ];
